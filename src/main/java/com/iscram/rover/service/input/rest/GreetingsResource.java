@@ -1,4 +1,4 @@
-package com.iscram.training.rover.input.rest;
+package com.iscram.rover.service.input.rest;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
