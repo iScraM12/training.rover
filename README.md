@@ -1,8 +1,4 @@
-# Docker/K8s Workshop
-## Lokale Docker Registry auf Minikube Registr setzen
-```
-eval $(minikube docker-env)
-```
+# Docker Workshop
 ## Rover-Service bauen
 ```
 mvn clean package
